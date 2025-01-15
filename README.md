@@ -33,7 +33,9 @@ puis
 node index.js
 ```
 
+## Final : 
 
+![Logo Apple Music](/img/exemple.png)
 
 ## Contribuer
 Les contributions sont les bienvenues ! Veuillez soumettre une pull request ou ouvrir une issue pour discuter des changements que vous souhaitez apporter.
